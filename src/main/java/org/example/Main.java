@@ -9,5 +9,8 @@ public class Main {
     public static void Master1() {
         System.out.println("Added another commit into master");
     }
+    public static void Master2() {
+        System.out.println("3 commit inot master branch");
+    }
 }
 

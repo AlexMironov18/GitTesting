@@ -15,5 +15,11 @@ public class Main {
     public static void Developer1() {
         System.out.println("Developer branch is added");
     }
+    public static void Feature1() {
+        System.out.println("The feature 1st commit");
+    }
+    public static void Feature2() {
+        System.out.println("The 2nd feature");
+    }
 }
 

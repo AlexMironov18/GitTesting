@@ -9,5 +9,8 @@ public class Main {
     public static void Master1() {
         System.out.println("Added another commit into master");
     }
+    public static void Feature1() {
+        System.out.println("The feature 1st commit");
+    }
 }
 

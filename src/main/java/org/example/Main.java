@@ -12,5 +12,8 @@ public class Main {
     public static void Master2() {
         System.out.println("3 commit inot master branch");
     }
+    public static void Developer1() {
+        System.out.println("Developer branch is added");
+    }
 }
 
